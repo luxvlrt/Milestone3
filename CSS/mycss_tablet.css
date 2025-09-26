@@ -1,0 +1,37 @@
+body {
+    font-family: Verdana, sans-serif;
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 1.5rem;
+    color: darkslateblue;
+}
+
+
+.profile-card {
+    text-align: center;
+    padding: 15px;
+    background: white;
+    border: 2px solid darkslateblue;
+}
+
+.profile-pic {
+    width: 120px;
+    height: 120px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: circle;
+}
+
+table {
+    width: 100%;
+    font-size: 0.9rem;
+}
+
+form {
+    width: 100%;
+}
